@@ -42,5 +42,5 @@ function finalScore (omr) {
     }
     
 }
-const output=finalScore({ right: 67, wrong: 23, skip: 10 });
+const output=finalScore({ right: 30, wrong: 30, skip: 40  });
 console.log(output);
